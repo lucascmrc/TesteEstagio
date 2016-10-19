@@ -1,0 +1,45 @@
+body {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+section fieldset {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50px;
+}
+
+.navbar-inverse {
+    border-radius: 0px;
+    background: black;
+    border-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-inverse a {
+    font-size: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 15px;
+    color: white;
+    width: 200px;
+}
+
+.container {
+    margin: 15px;
+    text-align: center;
+}
+
+.container a:hover {
+    text-decoration: none;
+    color: #e7e7e7;
+}
+
