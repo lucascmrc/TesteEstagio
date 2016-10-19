@@ -24,7 +24,7 @@
                    pattern="[a-z A-Zçãõéáóú]+" title="apenas letras" placeholder=" Nome"/><br/>
             <label>CPF</label><br/>
             <input class="form-control" type="text" name="cpf"
-                   pattern="[0-9]{3}[\.]?[\.]?[0-9]{3}[\.]?[0-9]{3}[-]?[0-9]{2}" title="111.222.333-44"
+                   pattern="[0-9]{3}[\.]?[\.]?[0-9]{3}[\.]?[0-9]{3}[-]?[0-9]{2}" title="11122233344"
                    required="required"
                    placeholder=" CPF"/><br/>
             <label>Profissão</label><br/>
